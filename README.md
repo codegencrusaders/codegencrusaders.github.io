@@ -67,7 +67,7 @@ The new format separated the entire test to several strings - function signature
 
 ## Results and Findings
 
-The results of our experiments, along with detailed analyses, will be showcased on [imchaelk.github.io/codegencrusaders/](https://imchaelk.github.io/codegencrusaders/ ) website. We hope that our work will contribute to the ongoing discourse on the ethical and technical implications of using AI in software development.
+The results of our experiments, along with detailed analyses, will be showcased on [codegencrusaders.github.io/)](https://codegencrusaders.github.io/) website. We hope that our work will contribute to the ongoing discourse on the ethical and technical implications of using AI in software development.
 
 ## Models Used
 
@@ -104,6 +104,10 @@ The fine-tuned TinyLlama model generally performs better than GPT-2 across the t
 ## Website
 
 The project website is hosted on GitHub Pages and serves as a platform to share our findings, methodology, and insights. 
+
+### Website Links and Repository Transfer
+
+The website at [codegencrusaders.github.io/](https://codegencrusaders.github.io/) is a duplicate that belongs to the user imchaelk. The original repository was transferred from imchaelk to another user at the end of the course, and the updated website is now located at [https://domainenguoh.github.io/3group_2024/](https://domainenguoh.github.io/3group_2024/).
 
 ### Web Attribution
 
